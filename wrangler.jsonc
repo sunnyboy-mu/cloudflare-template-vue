@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "my-app",
+  "name": "cloudflare-template-vue",
   "compatibility_date": "2025-06-17",
   "main": "./server/index.ts",
   "assets": {
