@@ -1,7 +1,7 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "cloudflare-template-vue",
-  "compatibility_date": "2025-06-17",
+  "compatibility_date": "2025-06-04",
   "main": "./server/index.ts",
   "assets": {
     "not_found_handling": "single-page-application"
